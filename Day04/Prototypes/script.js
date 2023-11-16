@@ -1,5 +1,6 @@
 
-
+// first it will look in obj if it's not aval 
+// thn it will go down to proto 
 let a = {
 
     name: 'Toyota',
@@ -7,6 +8,9 @@ let a = {
     model: 'fortuner',
     mode: '4x4',
     Price: 40000,
+    run :()=>{
+        alert('self running')
+    }
 }
 
 let p = {
