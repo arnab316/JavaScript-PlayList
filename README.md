@@ -21,12 +21,13 @@ Day05 is dedicated to understanding Object-Oriented Programming (OOP) concepts i
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/javascript-learning-playlist.git
+   git clone https://github.com/arnab316/JavaScript-PlayList.git
 
 
 
 # Navigate to the specific day's folder:
-cd javascript-learning-playlist/DayXX
+ ```bash
+  cd javascript-learning-playlist/(folder-name)
 
 
 
